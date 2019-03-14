@@ -39,4 +39,3 @@ hand set.
 
 For the Raspberry Pi, clone the https://github.com/ninjablocks/433Utils project to
 compile a sniffer tool and transmission commands.
-# rcswitch64

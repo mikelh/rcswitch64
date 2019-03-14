@@ -1,5 +1,5 @@
 {
-  "name": "rc-switch",
+  "name": "rc-switch64",
   "description": "Use your Arduino or Raspberry Pi to operate remote radio controlled devices",
   "keywords": "rf, radio, wireless",
   "authors":
